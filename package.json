@@ -23,8 +23,8 @@
   },
   "homepage": "https://github.com/wealthbar/slm-loader#readme",
   "dependencies": {
-    "loader-utils": "^0.2.15",
-    "slm": "^0.5.1",
+    "loader-utils": "^1.1.0",
+    "slm": "^1.0.0",
     "slm-markdown": "^1.0.0"
   }
 }
